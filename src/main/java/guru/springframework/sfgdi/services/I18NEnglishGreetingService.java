@@ -5,7 +5,7 @@ import org.springframework.stereotype.Service;
 
 @Profile("EN")
 @Service("i18nService")
-public class I18NEnglishGreetingService implements IGreetingService {
+public class I18NEnglishGreetingService implements GreetingService {
 
 	@Override
 	public String sayGreeting() {
