@@ -1,4 +1,4 @@
 guru:
-  username: DevDBUser
-  password: DevPass
-  jdbcurl: DevUrl
+    username: DevDBUser
+    password: DevPass
+    jdbcurl: DevUrl
